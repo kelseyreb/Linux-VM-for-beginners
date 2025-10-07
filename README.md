@@ -1,5 +1,5 @@
 # Linux-VM-for-beginners
-##Linux VM walk through with explanations
+## Linux VM walk through with explanations
 
 1. First begin by downloading a Virtual Machine Manager. If you have Windows 11 Pro you could download HyperVisor and create a Virtual Machine that way OR you can download one off the internet. I downloaded one at this website. https://www.virtualbox.org/wiki/Downloads
 
