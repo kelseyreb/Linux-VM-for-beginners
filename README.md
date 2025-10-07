@@ -11,3 +11,4 @@ This is what your Virtual machine box will first look like when you start it
 ![Linux VM](https://raw.githubusercontent.com/kelseyreb/Linux-VM-for-beginners/refs/heads/main/Screenshot%202025-10-06%20140002.png)
 
 You’re going to click new. This is what it would look like
+![VM name](https://raw.githubusercontent.com/kelseyreb/Linux-VM-for-beginners/refs/heads/main/Screenshot%202025-10-06%20143148.png)
