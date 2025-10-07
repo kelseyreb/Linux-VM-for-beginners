@@ -5,7 +5,7 @@ Linux VM walk through with explanations
 
 2. I then downloaded a debian Net install through this website. –	https://www.debian.org/CD/netinst/
 
-3.This is what your Virtual machine box will first look like when you start it. 
+3. This is what your Virtual machine box will first look like when you start it. 
 ![Linux VM](https://raw.githubusercontent.com/kelseyreb/Linux-VM-for-beginners/refs/heads/main/Screenshot%202025-10-06%20140002.png)
 
 4. You’re going to click new. The new button is a blue spiked sphere. This is what it would look like.
@@ -14,7 +14,7 @@ Linux VM walk through with explanations
 5. From here Name your VM name, I am going to name mine Debian VM.
 ![2](https://raw.githubusercontent.com/kelseyreb/Linux-VM-for-beginners/refs/heads/main/Screenshot%202025-10-06%20143254.png)
 
-6.I am going to leave the VM location where it is, feel free to put the location anywhere you would like. 
+6. I am going to leave the VM location where it is, feel free to put the location anywhere you would like. 
 
 7. For the ISO image you are going to select the Debian Image downloaded in the first step
 ![3](https://raw.githubusercontent.com/kelseyreb/Linux-VM-for-beginners/refs/heads/images/Screenshot%202025-10-06%20143315.png)
