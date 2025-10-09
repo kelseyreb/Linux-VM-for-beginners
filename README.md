@@ -34,11 +34,13 @@
     
 14.	First locate the terminal application, click the 3X3 box  this is what it looks like.![9](https://raw.githubusercontent.com/kelseyreb/Linux-VM-for-beginners/refs/heads/images/Screenshot%202025-10-06%20145745.png)
     
-15.	The terminal application is located on the very bottom row, The very last application.
+15.	The terminal application is located on the very bottom row, The very last application. ![10](https://raw.githubusercontent.com/kelseyreb/Linux-VM-for-beginners/refs/heads/images/Screenshot%202025-10-06%20145842.png)
     
-17.	This is how the command line looks like.
-18.	First command we are going to run is ‘su’.  ‘su’ switches the user to “superuser” mode this is like being the administrator of the system. Superuser commands need special privileges to make changes. This also shows principle of least privilege with ensuring that administrative rights are separated. For the password you will enter in the password used to login. Be careful it does not show you. You will know you are in the SuperUser mode when you have the username# as shown below
-18.Second command we are going to run is ‘apt-get update’ this refreshes the list of available software and updates.
-19.	Next command we are going to run is ‘apt-get upgrade’. The installs the latest versions of software already on the system.
-20.	Now lets make the system say hello and also to test to see if the system is working  and responding correctly.
+17.	This is how the command line looks like. Your command line will based on what you typed in for the user and the hostname. 'user@hostname:~$' ![11](https://raw.githubusercontent.com/kelseyreb/Linux-VM-for-beginners/refs/heads/images/Screenshot%202025-10-06%20150059.png)
+    
+18.	First command we are going to run is ‘su’.  ‘su’ switches the user to “superuser” mode this is like being the administrator of the system. Superuser commands need special privileges to make changes. This also shows principle of least privilege with ensuring that administrative rights are separated. For the password you will enter in the password used to login. Be careful it does not show you. You will know you are in the SuperUser mode when you have the command line opening as 'root@'hostname': /home/'username'. ![12](https://raw.githubusercontent.com/kelseyreb/Linux-VM-for-beginners/refs/heads/images/Screenshot%202025-10-06%20150400.png)
+    
+19.Second command we are going to run is ‘apt-get update’ this refreshes the list of available software and updates.
+20.	Next command we are going to run is ‘apt-get upgrade’. The installs the latest versions of software already on the system.
+21.	Now lets make the system say hello and also to test to see if the system is working  and responding correctly.
 21.Now the next few commands we are going to be gathering system information. First lets check what version of linux we are running. Use the command ‘cat /proc/version’ This shows us the name and version we are operating on. 
